@@ -1,4 +1,5 @@
 # demo-repo
-Hank Braver
+Introduction to GIT and GitHub
 Lane Tech Highschool
 Chicago, Illinois
+Hank Braver
